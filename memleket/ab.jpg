@@ -1,0 +1,736 @@
+
+
+
+
+<!DOCTYPE html>
+<html xmlns="https://www.w3.org/1999/xhtml">
+<head>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-B9HWDB2WZ7"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-B9HWDB2WZ7');
+    </script>
+
+    <!-- Google Tag Manager -->
+    <script>(function (w, d, s, l, i) {
+         w[l] = w[l] || []; w[l].push({
+             'gtm.start':
+                 new Date().getTime(), event: 'gtm.js'
+         }); var f = d.getElementsByTagName(s)[0],
+             j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+                 'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+     })(window, document, 'script', 'dataLayer', 'GTM-5DNZX47R');</script>
+    <!-- End Google Tag Manager -->
+
+    <link rel="icon" href="/favicon.ico" type="image/x-icon" />
+    
+    <meta name="robots" content="ALL"/>
+<meta property="og:type" content="article"/>
+<meta property="og:title" content="ŞARLAK ŞELALESİ | Kültür Portalı"/>
+<meta property="og:description" content=". Şelalenin uzunluğu 25m civarında olup suyu yaklaşık 5m yükseklikten dökülmektedir. Şelalenin hemen yakınında bulunan ve tamamen tahrip olmuş kalıntılardan şelalenin üzerinde yakın geçmişte bir değirmen mevcut olduğu anlaşılmaktadır"/>
+<meta property="og:image" content="https://www.kulturportali.gov.tr/repoKulturPortali/large/22022013/d55d5019-d2f4-4357-a770-6d797ca0db0a.JPG?format=jpg&quality=50"/>
+<meta property="og:site_name" content="Kültür Portalı"/>
+<meta property="og:url" content="http://www.kulturportali.gov.tr/turkiye/osmaniye/kulturenvanteri/sarlak-selales"/>
+<meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:site" content="@TCKulturPortali"/>
+<meta name="twitter:creator" content="@TCKulturPortali"/>
+<meta name="twitter:title" content="ŞARLAK ŞELALESİ | Kültür Portalı"/>
+<meta name="twitter:description" content=". Şelalenin uzunluğu 25m civarında olup suyu yaklaşık 5m yükseklikten dökülmektedir. Şelalenin hemen yakınında bulunan ve tamamen tahrip olmuş kalıntılardan şelalenin üzerinde yakın geçmişte bir değirmen mevcut olduğu anlaşılmaktadır"/>
+<meta name="twitter:domain" content="kulturportali.gov.tr"/>
+<meta name="description" content=". Şelalenin uzunluğu 25m civarında olup suyu yaklaşık 5m yükseklikten dökülmektedir. Şelalenin hemen yakınında bulunan ve tamamen tahrip olmuş kalıntılardan şelalenin üzerinde yakın geçmişte bir değirmen mevcut olduğu anlaşılmaktadır"/>
+<meta name="keywords" content=""/>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<!-- Stiller V2 -->
+<link href='//fonts.googleapis.com/css?family=Roboto:400,300,300italic,400italic,700,700italic,500italic,500,800,700,600&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
+<link rel="stylesheet" href="/css/bootstrap.css" type="text/css">
+<link rel="stylesheet" href="/css/styleNew.css?v=20220301-1234" type="text/css">
+<link rel="stylesheet" href="/css/styleExtra.css?v=20220301-1234" type="text/css">
+<link rel="stylesheet" href="/css/styleFix.css?v=20220301-1234" type="text/css">
+<link rel="stylesheet" href="/css/dark.css?v=20220301-1234" type="text/css">
+<link rel="stylesheet" href="/css/font-icons.css?v=20220301-1234" type="text/css">
+<link rel="stylesheet" href="/css/animate.css?v=20220301-1234" type="text/css">
+<link rel="stylesheet" href="/css/magnific-popup.css?v=20220301-1234" type="text/css">
+<link rel="stylesheet" href="/css/elastic.css?v=20220301-1234" type="text/css">
+<link rel="stylesheet" href="/css/vmap.css?v=20220301-1234" type="text/css">
+<link rel="stylesheet" href="/css/calendar.css?v=20220301-1234" type="text/css" />
+<link href="/Content/font-awesome.min.css?v=20220301-1234" rel="stylesheet" />
+    <link rel="stylesheet" type="text/css" href="/_ui/css/slick-theme.css?v=20220301-1234" />
+<link rel="stylesheet" type="text/css" href="/_ui/css/slick.css?v=20220301-1234" />
+
+<link href="/Content/bootstrap-datetimepicker.min.css?v=20220301-1234" rel="stylesheet" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<!--[if lt IE 9]>
+    	<script src="//css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>
+    <![endif]-->
+
+­<style>
+     .fluid-width-video-wrapper {
+         width: 100%;
+         position: relative;
+         padding: 0;
+     }
+
+         .fluid-width-video-wrapper iframe, .fluid-width-video-wrapper object, .fluid-width-video-wrapper embed {
+             position: absolute;
+             top: 0;
+             left: 0;
+             width: 100%;
+             height: 100%;
+         }
+
+     #map-canvas {
+         width: 100%;
+         height: 400px;
+         margin: 0px;
+         padding: 0px;
+     }
+
+         #map-canvas div.map-info h1, #map-canvas div.map-info p {
+             color: #333;
+             margin-bottom: 15px;
+         }
+
+         #map-canvas img {
+             max-width: none;
+         }
+ </style>
+
+<!-- Preloader -->
+<link type="text/css" rel="stylesheet" href="/_ui/css/estepspinner.css?v=20220301-1234" media="screen,projection" />
+
+<link href="/css/theme-eskidenyeniye.css?v=20220301-1234" rel="stylesheet" />
+<link href="/css/custom-altsayfa.css?v=20220301-1234" rel="stylesheet" />
+<link rel="stylesheet" href="/css/responsive.css?v=20220301-1234" type="text/css">
+
+<!-- Template elements -->
+<link href="/css/theme-elements.css?v=20220301-1234" rel="stylesheet">
+<link href="/vendor/fontawesome/css/font-awesome.min.css?v=20220301-1234" type="text/css" rel="stylesheet">
+
+<!-- Template color -->
+<link href="/css/color-variations/red-dark.css?v=20220301-1234" rel="stylesheet" type="text/css" media="screen" title="red-dark">
+
+<!-- LOAD GOOGLE FONTS -->
+<link href="//fonts.googleapis.com/css?family=Open+Sans:400,300,800,700,600%7CRaleway:100,300,600,700,800" rel="stylesheet" type="text/css" />
+<link href="//fonts.googleapis.com/css?family=Lato:300,400,400i,700,700i&amp;subset=latin-ext" rel="stylesheet">
+
+
+<script type="text/javascript" src="/js/jquery.js?v=20220301-1234"></script>
+<script type="text/javascript" src="/Scripts/moment-with-locales.min.js?v=20220301-1234"></script>
+<script type="text/javascript" src="/Scripts/bootstrap-datetimepicker.min.js?v=20220301-1234"></script>
+
+<script type="text/javascript" src="/js/scriptExtra.js?v=20220301-1234"></script>
+<script type="text/javascript" src="/js/plugins.js?v=20220301-1234"></script>
+<script type="text/javascript" src="/js/jquery.elastic.js?v=20220301-1234"></script>
+<script type="text/javascript" src="/js/jquery.calendario.js?v=20220301-1234"></script>
+<script type="text/javascript" src="/js/events-data.js?v=20220301-1234"></script>
+<script type="text/javascript" src="/js/pagingCounts.js?v=20220301-1234"></script>
+<script type="text/javascript" src="/js/imagesloaded.pkgd.js?v=20220301-1234"></script>
+<script type="text/javascript" src="/js/linkify-jquery/linkify.min.js?v=20220301-1234"></script>
+<script type="text/javascript" src="/js/linkify-jquery/linkify-jquery.min.js?v=20220301-1234"></script>
+<script type="text/javascript" src="/_ui/js/slick.1-8-0.min.js?v=20220301-1234"></script>
+<title>
+	ŞARLAK ŞELALESİ | Kültür Portalı
+</title></head>
+<body class="stretched light device-lg no-transition">
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5DNZX47R"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+
+    <div id="wrapper" class="clearfix" style="-webkit-animation-duration: 1.5s; opacity: .88;">
+        <form method="post" action="./sarlak-selales" id="form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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" />
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['form1'];
+if (!theForm) {
+    theForm = document.form1;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="/WebResource.axd?d=pynGkmcFUV13He1Qd6_TZBrY_DK-wcBrCLuPWzjHccosmYKa8VFKCiO_QqKgIy9D9c1ghYDPkWqUNq5ooD6Huw2&amp;t=638393534639266807" type="text/javascript"></script>
+
+
+<script src="/ScriptResource.axd?d=uHIkleVeDJf4xS50Krz-yHqQQhJC2RLNr8-2fjgmuAAQf-WlIIbyP41BLlCtXnl5k4wklWhWGHcAZ_XXi7W2m4UW2eMdlqyB0EjWyd6UUGqORr1s2Af13SgPZ-aZVcHDBXjvHmvClEe5yn9LcYRL_AmWm_SIxcKqKXb-lLyVv0c1&amp;t=3cf0aaa4" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=Jw6tUGWnA15YEa3ai3FadLupPycJUMby-LxbCSsKYIQ5fTGRECEbonsZkGIkTDpNbCDTnNrFmgoP4WUToDKpeon40sZlARPrBxK3BvFGigIVp9p2Ijj_m_HG2VTs0DLhK2SA3z_As9OeeFZkgIot7SjJqcy7AIGRkR4M_Ipnug81&amp;t=3cf0aaa4" type="text/javascript"></script>
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="CE0AE6D4" />
+</div>
+            <script type="text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('ctl00$ScriptManager1', 'form1', [], [], [], 90, 'ctl00');
+//]]>
+</script>
+
+
+         
+            
+    <!--Begin:  header --- -->
+    
+<header id="header" class="ileozel">
+    <div id="header-wrap">
+        <div class="container">
+
+            <!-- Logo -->
+            <h1 id="logo">
+                <a href="/" class="logo" title="Türkiye Kültür Portalı Anasayfa" data-dark-logo="/images/logo-dark.png">
+                    <img src="/images/logo.png" alt="Türkiye Kültür Portalı Logo" />
+                </a>
+            </h1>
+
+            <!-- Mobil Menu -->
+            <div class="nav-main-menu-responsive">
+                <a id="mobile-menu-trigger" class="lines-button x" href="javascript:;">
+                    <span class="lines"></span>
+                </a>
+            </div>
+
+            <!-- Arama -->
+            <div id="topsearch" class="">
+                <a id="topsearchtrigger" title="Arama kutusunu açmak/kapatmak için tıklayın"><i class="fa fa-search"></i><i class="fa fa-close"></i></a>
+            </div>
+            <div id="topsearchform" class="searchform" onkeypress="javascript:return WebForm_FireDefaultButton(event, &#39;btnSearchTrigger&#39;)">
+	
+                <input name="ctl00$ContentPlaceHolder1$WucPageHeader$txtTopSearch" type="text" id="ContentPlaceHolder1_WucPageHeader_txtTopSearch" class="form-control" name="q" placeholder="Aranacak Kelime" />
+                <input type="submit" name="ctl00$ContentPlaceHolder1$WucPageHeader$btnSearchTrigger" value="." id="btnSearchTrigger" style="visibility: hidden; padding: 0; margin: 0; height: 0; width: 0; font-size: 1px; border: none;" />
+            
+</div>
+            <!-- Sosyal Ikonlar -->
+            <div id="shopping-cart">
+                <ul>
+                    <li class="social-facebook"><a href="https://www.facebook.com/kulturportali/" title="Facebook" target="_blank"><i class="icon-facebook"></i></a></li>
+                    <li class="social-twitter"><a href="https://twitter.com/tckulturportali" title="X" target="_blank"><i class="icon-twitter"></i></a></li>
+                    <li class="social-instagram"><a href="https://www.instagram.com/kulturportali/" title="Instagram" target="_blank"><i class="icon-instagram"></i></a></li>
+                    
+                    <li class="social-pinterest"><a href="https://www.pinterest.com/KulturPortali" title="Pinterest" target="_blank"><i class="icon-pinterest"></i></a></li>
+                    <li class="social-youtube"><a href="https://www.youtube.com/channel/UCdkN6QYy7OuMBTINgndgorA" title="Youtube" target="_blank"><i class="icon-youtube"></i></a></li>
+                </ul>
+            </div>
+            <div class="langchanger-container-subpage">
+                
+            </div>
+
+
+            <!-- Navigasyon -->
+            <div class="navbar-collapse collapseww main-menu-collapse navigation-wrap">
+                <div class="container">
+                    <nav id="mainMenu" class="main-menu mega-menu">
+                        <ul class="main-menu nav nav-pills">
+                            <li class="dropdown mega-menu-item">
+                                <a href="javascript:;"><i class="fa fa-home" style="font-size: 20px;"></i></a>
+                                <ul class="dropdown-menu">
+                                    <li class="mega-menu-content" style="background-image: url('/images/shortcode-megamenu-bg.png');">
+                                        <div class="row-fluid">
+                                            <div class="col-lg-3 col-md-4 col-sm-6 elleme">
+                                                <ul>
+                                                    <li>
+                                                        <a href="/portal/arkeolojisanattarihivemimari">
+                                                            <i class="fa fa-angle-double-right"></i>ARKEOLOJİ VE TARİH
+                                                        </a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="/portal/dilveedebiyat">
+                                                            <i class="fa fa-angle-double-right"></i>DİL VE EDEBİYAT
+                                                        </a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="/turkiye/genel/etkinlik">
+                                                            <i class="fa fa-angle-double-right"></i>ETKİNLİKLER
+                                                        </a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="/turkiye/genel/neyenir">
+                                                            <i class="fa fa-angle-double-right"></i>GELENEKSEL MUTFAK
+                                                        </a>
+                                                    </li>
+
+                                                </ul>
+                                            </div>
+                                            <div class="col-lg-3 col-md-4 col-sm-6 elleme">
+                                                <ul>
+                                                    <li>
+                                                        <a href="/turkiye/genel/gezilecekyer">
+                                                            <i class="fa fa-angle-double-right"></i>GEZİLECEK YERLER
+                                                        </a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="/turkiye/genel/haberduyuru">
+                                                            <i class="fa fa-angle-double-right"></i>HABER VE DUYURULAR
+                                                        </a>
+                                                    </li>
+
+                                                    <li>
+                                                        <a href="/portal/halk-bilimi-ve-kultur-atlasi">
+                                                            <i class="fa fa-angle-double-right"></i>HALK KÜLTÜRÜ
+                                                        </a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="/portal/Dunya-Miras-Listesinde-Turkiye">
+                                                            <i class="fa fa-angle-double-right"></i>KÜLTÜREL MİRASLARIMIZ
+                                                        </a>
+                                                    </li>
+
+                                                </ul>
+                                            </div>
+                                            <div class="col-lg-3 col-md-4 col-sm-6 elleme">
+                                                <ul>
+                                                    <li>
+                                                        <a href="/portal/sanat-1-2">
+                                                            <i class="fa fa-angle-double-right"></i>SANAT
+                                                        </a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="/turkiye/genel/neredekonaklanir">
+                                                            <i class="fa fa-angle-double-right"></i>NEREDE KONAKLANIR
+                                                        </a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="/turkiye/genel/nealinir">
+                                                            <i class="fa fa-angle-double-right"></i>SEYAHAT HATIRASI
+                                                        </a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="/turkiye/genel/turizmaktiviteleri">
+                                                            <i class="fa fa-angle-double-right"></i>TURİZM AKTİVİTELERİ
+                                                        </a>
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                            <div class="col-lg-3 col-md-4 col-sm-6 elleme">
+                                                <ul>
+                                                    <li>
+                                                        <a href="/medya">
+                                                            <i class="fa fa-angle-double-right"></i>MEDYA KÜTÜPHANESİ
+                                                        </a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="/turkiye/genel">
+                                                            <i class="fa fa-angle-double-right"></i>İLLERE ÖZEL
+                                                        </a>
+                                                    </li>
+
+
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </li>
+                                </ul>
+                            </li>
+                            <!-- Türkiye Geneli için -- -->
+                            <li class="hidden"><a href="/">
+                                <div>ANASAYFA</div>
+                            </a></li>
+                            
+                            <li class="hidden">
+                                <a href="/icerik/iletisim">İLETİŞİM</a>
+                            </li>
+
+
+                            <!-- İllere Özel Menüler -- -->
+                            <li class="">
+                                <a href="/turkiye/osmaniye">
+                                    <div>ANASAYFA</div>
+                                </a>
+                            </li>
+                                                      
+                            
+                            <li class="">
+                                <a href="/turkiye/osmaniye/iletisimharitasi">
+                                    <div>İLETİŞİM HARİTASI</div>
+                                </a>
+                            </li>
+                        </ul>
+                    </nav>
+                </div>
+            </div>
+        </div>
+    </div>
+</header>
+
+    <!--End:  header --- -->
+    <section id="page-title" class="page-title-mini">
+        <div class="container clearfix">
+            <ol class="breadcrumb">
+                <li><a href="/turkiye/osmaniye/anitlar">Anıtlar</a></li>
+                <li><a href=/turkiye/osmaniye/genelbilgiler>OSMANİYE</a></li>
+                <li><a href="/turkiye/genel/genelbilgiler">Türkiye</a></li>
+                <li><a href="/">Anasayfa</a></li>
+            </ol>
+            <h1 id="ContentPlaceHolder1_hPageTitle">Kültür Envanteri Anıt</h1>
+        </div>
+    </section>
+    <section id="content">
+
+        <div class="content-wrap">
+            <div class="container clearfix">
+                <h4>ŞARLAK ŞELALESİ - Osmaniye
+                </h4>
+                <div class="clearfix">
+                    <div id="ContentPlaceHolder1_pnlFotograflar">
+	
+                        <div id="oc-portfolio" class="owl-carousel portfolio-carousel">
+                            
+                                    <article class="portfolio-item pf-media pf-icons">
+                                        <div class="portfolio-image">
+                                            <a href="javascript:void();">
+                                                <img src="/repoKulturPortali/small/22022013/d55d5019-d2f4-4357-a770-6d797ca0db0a.JPG?format=jpg&quality=50" alt="">
+                                            </a>
+                                            <div class="portfolio-overlay">
+                                                <a href="/repoKulturPortali/large/22022013/d55d5019-d2f4-4357-a770-6d797ca0db0a.JPG?format=jpg&quality=50" title=" - " class="center-icon" data-lightbox="image"><i class="icon-line-search"></i></a>
+                                            </div>
+                                        </div>
+                                        <div class="portfolio-desc">
+                                            <h6></h6>
+                                            
+                                        </div>
+                                    </article>
+                                
+                        </div>
+                        <script type="text/javascript">
+                            jQuery(document).ready(function ($) {
+
+                                var ocPortfolio = $("#oc-portfolio");
+                                var numItems = $('.portfolio-overlay').length
+
+                                ocPortfolio.owlCarousel({
+                                    margin: 20,
+                                    nav: numItems > 4 ? true : false,
+                                    navText: ['<i class="icon-angle-left"></i>', '<i class="icon-angle-right"></i>'],
+                                    autoplay: false,
+                                    autoplayHoverPause: true,
+                                    dots: false,
+                                    responsive: {
+                                        0: { items: 1 },
+                                        600: { items: 2 },
+                                        1000: { items: 3 },
+                                        1200: { items: 4 }
+                                    }
+                                });
+
+                            });
+                        </script>
+                        <!--End:    ETKİNLİK GÖRSELLERİ-->
+                    
+</div>
+                    <div class="accordion accordion-border clearfix">
+
+                        <div class="acctitle"><i class="acc-closed fa fa-angle-down"></i><i class="acc-open fa fa-angle-right"></i>Kimlik</div>
+                        <div class="acc_content clearfix">
+                            <table class="table table-boordered table-etkinlik">
+                                <tbody>
+                                    <tr>
+                                        <th>Adı</th>
+                                        <td>ŞARLAK ŞELALESİ</td>
+                                    </tr>
+                                    <tr>
+                                        <th>Envanter No</th>
+                                        <td>105</td>
+                                    </tr>
+                                    <tr>
+                                        <th>Harita No</th>
+                                        <td>-</td>
+                                    </tr>
+                                    <tr>
+                                        <th>Mah. Köy - Mevkii</th>
+                                        <td></td>
+                                    </tr>
+                                    <tr>
+                                        <th>Adres</th>
+                                        <td>İlbistanlı Köyü, Alibeyli Mahallesi
+Sumbas
+</td>
+                                    </tr>
+                                    <tr>
+                                        <th>Pafta</th>
+                                        <td></td>
+                                    </tr>
+                                    <tr>
+                                        <th>Ada</th>
+                                        <td></td>
+                                    </tr>
+                                    <tr>
+                                        <th>Parsel</th>
+                                        <td></td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+
+                        <div class="acctitle"><i class="acc-closed fa fa-angle-down"></i><i class="acc-open fa fa-angle-right"></i>Koruma Durumu</div>
+                        <div class="acc_content clearfix">
+                            <table class="table table-boordered table-etkinlik">
+                                <tbody>
+                                    <tr>
+                                        <th>Koruma Derecesi - Anıtsal</th>
+                                        <td> </td>
+                                    </tr>
+                                    <tr>
+                                        <th>Koruma Derecesi - Çevresel</th>
+                                        <td>1</td>
+                                    </tr>
+                                    <tr>
+                                        <th>Koruma Derecesi - Aykırı</th>
+                                        <td> </td>
+                                    </tr>
+                                    <tr>
+                                        <th>Bugünkü Sahibi</th>
+                                        <td> </td>
+                                    </tr>
+                                    <tr>
+                                        <th>Bakımından Sorumlu Olması Gereken Kuruluş  </th>
+                                        <td></td>
+                                    </tr>
+
+                                </tbody>
+                            </table>
+                        </div>
+
+                        <div class="acctitle"><i class="acc-closed fa fa-angle-down"></i><i class="acc-open fa fa-angle-right"></i>Diğer Özellikler</div>
+                        <div class="acc_content clearfix">
+                            <table class="table table-boordered table-etkinlik">
+                                <tbody>
+                                    <tr>
+                                        <th>Yaptıran</th>
+                                        <td></td>
+                                    </tr>
+                                    <tr>
+                                        <th>Yapım Tarihi</th>
+                                        <td></td>
+                                    </tr>
+                                    <tr>
+                                        <th>Yapan</th>
+                                        <td></td>
+                                    </tr>
+                                    <tr>
+                                        <th>Kültür Dönemi</th>
+                                        <td></td>
+                                    </tr>
+                                    <tr>
+                                        <th>Kitabe</th>
+                                        <td></td>
+                                    </tr>
+                                    <tr>
+                                        <th>Vakfiye</th>
+                                        <td></td>
+                                    </tr>
+                                    <tr>
+                                        <th>Genel Tanım</th>
+                                        <td>Balıklar Deresi üzerinde bulunmaktadır. Şelalenin bulunduğu Balıklar Deresinin doğusu Kadirli İlçesi İlbistanlı Köyü, Batısı ise Sumbas İlçesi, Ali Beyli Beldesi sınırlarında bulunmaktadır</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+
+                        <div class="acctitle"><i class="acc-closed fa fa-angle-down"></i><i class="acc-open fa fa-angle-right"></i>Kullanım Durumu</div>
+                        <div class="acc_content clearfix">
+                            <table class="table table-boordered table-etkinlik">
+                                <tbody>
+                                    <tr>
+                                        <th>Koruma Durumu</th>
+                                        <td> </td>
+                                    </tr>
+                                    <tr>
+                                        <th>Taşıyıcı Yapı</th>
+                                        <td> </td>
+                                    </tr>
+                                    <tr>
+                                        <th>Üst Yapı</th>
+                                        <td> </td>
+                                    </tr>
+                                    <tr>
+                                        <th>Dış Yapı</th>
+                                        <td> </td>
+                                    </tr>
+                                    <tr>
+                                        <th>Süsleme Elemanları</th>
+                                        <td> </td>
+                                    </tr>
+                                    <tr>
+                                        <th>Rutubet</th>
+                                        <td> </td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+
+                        <div class="acctitle"><i class="acc-closed fa fa-angle-down"></i><i class="acc-open fa fa-angle-right"></i>Ayrıntılı Tanımı</div>
+                        <div class="acc_content clearfix">
+                            <table class="table table-boordered table-etkinlik">
+                                <tbody>
+                                    <tr>
+                                        <th>Yapılan Onarımlar</th>
+                                        <td>-</td>
+                                    </tr>
+                                    <tr>
+                                        <th>Ayrıntılı Tanımı</th>
+                                        <td>. Şelalenin uzunluğu 25m civarında olup suyu yaklaşık 5m yükseklikten dökülmektedir. Şelalenin hemen yakınında bulunan ve tamamen tahrip olmuş kalıntılardan şelalenin üzerinde yakın geçmişte bir değirmen mevcut olduğu anlaşılmaktadır</td>
+                                    </tr>
+                                    <tr>
+                                        <th>Su</th>
+                                        <td>YOK</td>
+                                    </tr>
+                                    <tr>
+                                        <th>Elektrik</th>
+                                        <td>YOK</td>
+                                    </tr>
+                                    <tr>
+                                        <th>Isıtma</th>
+                                        <td>YOK</td>
+                                    </tr>
+                                    <tr>
+                                        <th>Orjinal Kullanım</th>
+                                        <td></td>
+                                    </tr>
+                                    <tr>
+                                        <th>Bugünkü Kullanımı</th>
+                                        <td></td>
+                                    </tr>
+                                    <tr>
+                                        <th>Önerilen Kullanım</th>
+                                        <td></td>
+                                    </tr>
+                                    <tr>
+                                        <th>Tescil Kararı</th>
+                                        <td>20.03.2003-5061</td>
+                                    </tr>
+                                    <tr>
+                                        <th>Yayın Dizini</th>
+                                        <td></td>
+                                    </tr>
+                                    <tr>
+                                        <th>Ekler</th>
+                                        <td></td>
+                                    </tr>
+                                    <tr>
+                                        <th>Revizyon</th>
+                                        <td></td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+
+
+
+                    <div id="socialmedia" style="width: 50%; margin: 0 auto;">
+
+                        <a href="#" data-sm="fb" class="social-icon  si-borderless si-facebook" title="Facebook">
+                            <i class="icon-facebook"></i>
+                            <i class="icon-facebook"></i>
+                        </a>
+                        <a href="#" data-sm="tw" class="social-icon  si-borderless si-twitter" title="X">
+                            <i class="icon-twitter"></i>
+                            <i class="icon-twitter"></i>
+                        </a>
+                        <a href="#" data-sm="pt" data-imgurl="/repoKulturPortali/large/22022013/d55d5019-d2f4-4357-a770-6d797ca0db0a.JPG?format=jpg&quality=50" class="social-icon  si-borderless si-pinterest" title="Pinterest">
+
+                            <i class="icon-pinterest"></i>
+                            <i class="icon-pinterest"></i>
+                        </a>
+                        
+                    </div>
+                </div>
+                <div class="line"></div>
+                <!--- Bölüm Ayracı -->
+            </div>
+            <!-- Harita Modülü
+				    ============================================= -->
+            
+            <!-- Harita Biter -->
+
+
+
+            <!--Begin: İçerik İstatistiği-->
+            <div class="container clearfix">
+                <div>
+                    <span class="label label-default">Görüntülenme Sayısı :
+                        <span id="ContentPlaceHolder1_lblGoruntulenme">20198</span></span> &nbsp;&nbsp;
+                            <span class="label label-default">Eklenme Tarihi :
+                                <span id="ContentPlaceHolder1_lblEklenme">29 Ocak 2013 Salı</span></span> &nbsp;&nbsp;
+                            <span class="label label-default">Güncellenme Tarihi :
+                                <span id="ContentPlaceHolder1_lblGuncellenme">29 Ocak 2013 Salı</span></span> &nbsp;&nbsp;
+                </div>
+            </div>
+            <!--End: İçerik İstatistiği-->
+        </div>
+        <!-- Icerik Wrapper Biter -->
+
+        
+    </section>
+
+
+
+
+            <!-- Yukari Git -->
+            <div id="gotoTop" title="Yukarı Git" class="icon-angle-up" style="display: none;"></div>
+
+            <!-- Scriptler -->
+            <script type="text/javascript" src="/js/functions-eskidenYeniye.js?v=201702281450"></script>
+        </form>
+    </div>  
+	
+
+    
+<!--Begin:  Footer ------------------------ -->
+<footer id="footer" class="light">
+    <!-- Telif Hakkı Kısmı --- -->
+    <div id="copyrights">
+        <div class="container clearfix">
+            <div class="col_two_third" style="margin-bottom: 0;">
+                T.C. Kültür ve Turizm Bakanlığı © Tüm hakları saklıdır.
+                <br />
+            </div>
+            <div class="col_one_third col_last tright" style="margin-bottom: 0;">
+                
+                <div class="fright clearfix">
+                    <a href="https://www.facebook.com/kulturportali/" target="_blank" class="social-icon si-small si-borderless nobottommargin si-facebook">
+                        <i class="icon-facebook"></i>
+                        <i class="icon-facebook"></i>
+                    </a>
+                    <a href="https://twitter.com/tckulturportali" target="_blank" class="social-icon si-small si-borderless nobottommargin si-twitter">
+                        <i class="icon-twitter"></i>
+                        <i class="icon-twitter"></i>
+                    </a>
+                    <a href="https://www.instagram.com/kulturportali/" target="_blank" class="social-icon si-small si-borderless nobottommargin si-instagram">
+                        <i class="icon-instagram2"></i>
+                        <i class="icon-instagram2"></i>
+                    </a>
+                    <a href="https://www.pinterest.com/KulturPortali" target="_blank" class="social-icon si-small si-borderless nobottommargin si-pinterest">
+                        <i class="icon-pinterest"></i>
+                        <i class="icon-pinterest"></i>
+                    </a>
+                    
+                    <a href="https://www.youtube.com/channel/UCdkN6QYy7OuMBTINgndgorA" target="_blank" class="social-icon si-small si-borderless nobottommargin si-youtube">
+                        <i class="icon-youtube"></i>
+                        <i class="icon-youtube"></i>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+<!--End:  Footer ------------------------ -->
+
+</body>
+</html>
